@@ -8,3 +8,5 @@
 [Chapter1/Lesson1-4 繰り返し](./Chapter1/Lesson1-4)
 
 [Chapter1/Lesson1-5 配列](./Chapter1/Lesson1-5)
+
+[Chapter1/Lesson1-6 配列](./Chapter1/Lesson1-6)
