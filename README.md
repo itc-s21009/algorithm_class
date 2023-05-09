@@ -10,3 +10,5 @@
 [Chapter1/Lesson1-5 配列](./Chapter1/Lesson1-5)
 
 [Chapter1/Lesson1-6 配列](./Chapter1/Lesson1-6)
+
+[Chapter1/ExtraLesson1-1 乱数](./Chapter1/ExtraLesson1-1)
