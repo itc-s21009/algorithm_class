@@ -12,3 +12,5 @@
 [Chapter1/Lesson1-6 配列](./Chapter1/Lesson1-6)
 
 [Chapter1/ExtraLesson1-1 乱数](./Chapter1/ExtraLesson1-1)
+
+[Chapter1/Lesson2-1 平均値を求める](./Chapter2/Lesson2-1)
