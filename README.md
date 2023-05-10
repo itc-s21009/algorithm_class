@@ -14,3 +14,5 @@
 [Chapter1/ExtraLesson1-1 乱数](./Chapter1/ExtraLesson1-1)
 
 [Chapter1/Lesson2-1 平均値を求める](./Chapter2/Lesson2-1)
+
+[Chapter1/Lesson2-2 1からnまで足し合わせる](./Chapter2/Lesson2-2)
