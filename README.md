@@ -18,3 +18,5 @@
 [Chapter1/Lesson2-2 1からnまで足し合わせる](./Chapter2/Lesson2-2)
 
 [Chapter1/Lesson2-3 九九の式を出力する](./Chapter2/Lesson2-3)
+
+[Chapter1/Lesson2-4 素数を求める](./Chapter2/Lesson2-4)
