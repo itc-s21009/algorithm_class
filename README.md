@@ -16,3 +16,5 @@
 [Chapter1/Lesson2-1 平均値を求める](./Chapter2/Lesson2-1)
 
 [Chapter1/Lesson2-2 1からnまで足し合わせる](./Chapter2/Lesson2-2)
+
+[Chapter1/Lesson2-3 九九の式を出力する](./Chapter2/Lesson2-3)
