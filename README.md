@@ -20,3 +20,5 @@
 [Chapter1/Lesson2-3 九九の式を出力する](./Chapter2/Lesson2-3)
 
 [Chapter1/Lesson2-4 素数を求める](./Chapter2/Lesson2-4)
+
+[Chapter1/Lesson2-5 nの階乗(n!)を求める](./Chapter2/Lesson2-5)
